@@ -2,9 +2,9 @@
     --bs-font-sans-serif: 'Rubik', sans-serif;
 }
 
-.container-xxl {
+ .container {
     max-width: 1530px;
-}
+} 
 
 body{
     background-image: url("i-like-food.jpg");
