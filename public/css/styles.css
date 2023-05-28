@@ -1,10 +1,13 @@
 :root {
     --bs-font-sans-serif: 'Rubik', sans-serif;
 }
-
- .container {
-    max-width: 1530px;
-} 
+/* 
+ .container-xxl {
+    max-width: 1530px; */
+    /* max-height: 600px;
+    display: flex; */
+ 
+/* }  */
 
 body{
     background-image: url("i-like-food.jpg");
@@ -40,7 +43,7 @@ a{
 }
 
 .category__img--large{
-    height: 330px;
+    height: 320px;
 }
 .category__img img {
     width: 100px;
